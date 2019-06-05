@@ -6,9 +6,9 @@ spring:
 spring:
   profiles: dev
   application:
-      name: microconfig-test-devv
+      name: sys-test-devv
 ---
 spring:
  profiles: default
  application:
-      name: microconfig-test-default
+      name: sys-test-default
